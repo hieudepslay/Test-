@@ -50,6 +50,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/r
      Name = "fix lag ",
     Callback = function()
 	  loadstring(game:HttpGet("https://raw.githubusercontent.com/TurboLite/Script/main/FixLag.lua"))()
+})
 
 AddButton(Tab1o, {
 
@@ -58,3 +59,4 @@ AddButton(Tab1o, {
     Callback = function()
 
 	  loadstring(game:HttpGet("https://github.com/MerrySubs4t/Softwork/blob/main/Fetching/dll?raw=true"))()
+})
